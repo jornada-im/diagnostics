@@ -1,0 +1,318 @@
+studyid,pkgid,pubdate,title,authors,old_core,core_sig_2020prop,top10_2020prop,top10doi_2020prop,corearea
+1,100,2019,"High resolution shrub cover raster maps of the Jornada Basin LTER, including JER and CDRRC (2011)","Ji, Wenjie; Hanan, Niall P.; ",,signature,,,Inorganic matter cycling
+1,210001001,2011,Hydrology natural runoff plots plant cover,"Ward, Tim; ",,,,,Inorganic matter cycling
+1,210001002,2019,"Rainfall runoff and sediment deposition from 2 x 2 meter plots in grassland and creosotebush communities at the Jornada Basin LTER, 1982-1994","Ward, Tim; ",core,core,,,Inorganic matter cycling
+1,210001003,2011,Hydrology plot surface runoff water chemistry,"Ward, Tim; ",,,,,Inorganic matter cycling
+2,210002001,2019,"Graduated rain gauge (GRG) precipitation observations from 15 NPP sites at the Jornada Basin LTER, 1989-ongoing","Huenneke, Laura; Anderson, John; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Disturbance
+7,210007001,1991,"Lizard pitfall trap data (LTER-II, LTER-III)","Lightfoot, David; ",,,,,Populations
+8,210008001,2012,Arthropod Pitfall Traps-III in 5x1 grid at LTER II NPP sites,"Anderson, John; ",,,,,Populations
+10,210010001,2019,"Termite foraging data from bait mass loss at eleven locations at the Jornada Basin LTER site, 1988-2000","Lightfoot, David; Whitford, Walter; Anderson, John; ",core,core,,,Populations
+11,210011001,2019,Seasonal aboveground plant biomass estimates at 15 net primary production (NPP) study sites at Jornada Basin LTER from 1989-2012,"Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+11,210011002,2019,"Seasonal non-destructive vegetation measurements at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1989-ongoing","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+11,210011003,2019,"Annual mean estimates of aboveground net primary production (NPP) at 15 sites at Jornada Basin LTER, 1989-2017","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+11,210011004,2019,"Seasonal reference harvest measurements of vegetation at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1989-ongoing","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+11,210011005,2019,"Annual ground-based photographs taken at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1996-ongoing","Anderson, John; ",core,core,,,Primary production
+12,210012001,2019,"Raw neutron counts from a soil water content hydroprobe along the LTER-I transects (control and fertilized) at the Jornada Basin LTER, 1986-ongoing","Wierenga, Peter; Virginia, Ross; Duniway, Michael; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
+12,210012002,2019,"Soil volumetric water content calculated from neutron hydroprobe data along the LTER-I transects (control and fertilized) at the Jornada Basin LTER, 1986-ongoing","Wierenga, Peter; Virginia, Ross; Duniway, Michael; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
+13,210013001,2019,"Raw neutron counts from a soil water content hydroprobe at 15 NPP study sites at the Jornada Basin LTER, 1989-ongoing","Virginia, Ross; Duniway, Mike; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
+13,210013002,2019,"Soil volumetric water content calculated from neutron hydroprobe data at 15 NPP study sites at the Jornada Basin LTER, 1989-2011 (Deprecated)","Virginia, Ross; Duniway, Mike; ",core,core,,,Inorganic matter cycling
+13,210013003,2019,"Soil volumetric water content calculated from neutron hydroprobe data at 15 NPP study sites at the Jornada Basin LTER, 1989-ongoing","Virginia, Ross; Duniway, Mike; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
+15,210015001,2011,Transect Vegetation Biomass,"Anderson, John; ",,,,,Primary production
+15,210015002,2011,Transect Soil Mineralization Potential (Field),"Anderson, John; ",,,,,Inorganic matter cycling
+15,210015003,2011,Transect Soil Mineralization Potential (Initial),"Anderson, John; ",,,,,Inorganic matter cycling
+86,210086001,2019,"Vegetation cover data from line-intercept transects in the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+86,210086002,2019,"Quadrat vegetation cover data from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+86,210086003,2019,"Cryptogam crust data from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+86,210086004,2019,"Leaf litter cover data on 1m x 1m plots from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Organic matter cycling
+86,210086005,2019,"Rabbit feces counts on 1m x 1m plots from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+86,210086006,2019,"Rabbit survey data on creosotebush and grassland routes from the long-term Small Mammal Exclusion Study at Jornada Basin LTER, 1996-ongoing","Bestelmeyer, Brandon; Lightfoot, David; Schooley, Robert; ",core,core,,,Populations
+86,210086007,2019,"Soil disturbance cover data on 1m x 1m plots from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Disturbance
+86,210086008,2019,"Termite casing data from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+86,210086009,2019,"Rodent data from trapping webs in the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2007","Bestelmeyer, Brandon; Lightfoot, David; Schooley, Robert; ",core,core,,,Populations
+119,210119001,2019,"Percent cover of vegetation measured by the line-intercept method at multiple locations on long-term ecosystem transects (including nitrogen fertilization treatments) at Jornada Basin LTER, 1982-2014","Cunningham, Gary; ",core,core,,,Land Use and Land Cover Change
+120,210120001,2019,"Perennial species canopy cover across grazed/ungrazed fencelines at the Jornada Basin LTER, 1986-ongoing","Whitford, Walter; Anderson, John; ",core,core,,,Land Use and Land Cover Change
+120,210120002,2019,"Canopy cover for 9 perennial plant taxa across grazed/ungrazed fencelines at the Jornada Basin LTER, 1982-ongoing","Whitford, Walter; Anderson, John; ",core,core,,,Land Use and Land Cover Change
+121,210121001,2012,Biodiversity plots vegetation transects,"Anderson, John; ",,,,,Populations
+121,210121005,2019,"Daily summary precipitation data from a tipping bucket rain gauge near former Jornada Basin LTER Biodiversity study site, 1996-ongoing","Huenneke, Laura; Rango, Al; Anderson, John; ",core,core,,,Disturbance
+121,210121006,2012,"The Effects of Changing Vegetative Composition on the Abundance, Species Diversity and Activity of Birds in the Chihuahuan Desert","Anderson, John; ",,,,,Populations
+121,210121008,2019,"High resolution precipitation event data from a tipping bucket gauge near former Jornada Basin LTER Biodiversity study site, 1996-ongoing","Huenneke, Laura; Rango, Al; Anderson, John; ",core,core,,,Disturbance
+122,210122001,2019,"Surface abrasion and crust evolution following vegetation removal at the Jornada Basin LTER Scrape Site, 1995 to 2019","Gillette, Dale; Okin, Greg; ",core,core,,,Disturbance
+126,210126001,2012,LTER Weather Station daily summary climate data,"Anderson, John; ",core,core,,,Disturbance
+126,210126003,2020,"Precipitation data from a standard can rain gauge at the LTER weather station, Jornada Basin, southern New Mexico, USA, 1992-ongoing","Anderson, John; ",core,core,,,Disturbance
+127,210127001,2019,"Evaporation pan data from the Jornada Basin LTER weather station, 1983-ongoing","Whitford, Walter; Anderson, John; ",core,core,,,Disturbance
+128,210128001,2020,Atmospheric deposition chemistry data from dryfall at the Jornada Basin LTER: 1983-ongoing,"Schlesinger, William H; Anderson, John; ",core,core,,,Inorganic matter cycling
+128,210128002,2020,Atmospheric deposition chemistry data from wetfall at the Jornada Basin LTER: 1983-ongoing,"Schlesinger, William H; Anderson, John; ",core,core,,,Inorganic matter cycling
+228,210228001,2019,"Aeolian dust weights sampled by BSNE collectors before and after the windy season from the NEAT study at Jornada Basin LTER, 2008-ongoing","Okin, Gregory S; Gillette, Dale; ",core,core,,,Inorganic matter cycling
+262,210262001,2020,"Spring and Fall plant cover across grassland-shrubland ecotones at 3 sites in the Jornada Basin, 2005-ongoing","Bestelmeyer, Brandon; ",core,core,1.0,https://doi.org/10.1002/ecs2.2330,Populations
+262,210262004,2020,"Annual Aboveground Net Primary Productivity by plant functional groups across grassland-shrubland ecotones at 3 sites in the Jornada Basin, 2006-ongoing","Bestelmeyer, Brandon; ",core,core,1.0,https://doi.org/10.1002/ecs2.2330,Primary production
+262,210262005,2020,"Total Annual Aboveground Net Primary Productivity across grassland-shrubland ecotones at 3 sites in the Jornada Basin, 2006-ongoing","Bestelmeyer, Brandon; ",core,core,1.0,https://doi.org/10.1002/ecs2.2330,Primary production
+262,210262008,2012,Ecotone Rodent Trapping 1st Capture,"Bestelmeyer, Brandon; ",core,core,1.0,https://doi.org/10.1002/ecs2.2330,Populations
+262,210262010,2012,"Ecotone Rodent 1st Capture Metrics (abundance, biomass, energy, species richness)","Bestelmeyer, Brandon; ",core,core,1.0,https://doi.org/10.1002/ecs2.2330,Populations
+278,210278001,2014,Soil water content in precipitation and nitrogen treatment plots at 2 depth profiles,"Reichmann, Lara; ",core,signature,,,Disturbance
+278,210278002,2012,Plant cover in precipitation and nitrogen treatment plots (by species),"Reichmann, Lara; ",core,signature,,,Disturbance
+287,210287001,2011,Plant phenology transect at NPP sites,"Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+288,210288001,2019,"Aeolian dust weights sampled by BSNE collectors in 18 locations at the Jornada Basin LTER site, 1998-ongoing","Okin, Gregory S; Gillette, Dale; ",core,core,1.0,https://doi.org/10.1093/biosci/biy067,Inorganic matter cycling
+301,210301001,2015,Aggregate mesquite litter chemistry following soil-litter mixing and decomposition in a semi-arid grassland from 2010-2012,"Hewins, Dan; ",,,,,Organic matter cycling
+301,210301002,2015,Aggregate mesquite litter mass following soil-litter mixing and decomposition in a semi-arid grassland from 2010-2012,"Hewins, Dan; ",,,,,Organic matter cycling
+308,210308001,2020,"Annual measurements of vegetation canopy and basal gap intercepts from the three Conmod Pilot study locations at Jornada Basin LTER, 2008-2016","Peters, Debra; Okin, Gregory S; Herrick, Jeff; ",core,core,,,Disturbance
+308,210308002,2020,"Annual measurements of vegetation cover on line-point intercept transects from the three Conmod Pilot study locations at Jornada Basin LTER, 2008-2016","Peters, Debra; Okin, Gregory S; Herrick, Jeff; ",core,core,,,Disturbance
+308,210308003,2020,"Bedload data (deposition from overland flow) measured at the three Conmod Pilot study locations at Jornada Basin LTER, 2008-2010","Herrick, Jeff; Peters, Debra; Okin, Gregory S; ",,,,,Disturbance
+308,210308004,2019,"BSNE aeolian dust collector sample weights from the three ConMod Pilot study locations at Jornada Basin LTER, 2008-2016","Okin, Gregory S; Peters, Debra; Herrick, Jeff; ",core,core,,,Disturbance
+308,210308005,2020,"Repeat, ground-based photographs of microplots at the three Conmod Pilot study locations at Jornada Basin LTER, 2008-2016","Herrick, Jeff; Peters, Debra; Okin, Gregory S; ",core,core,,,Disturbance
+327,210327001,2018,"Greenfall litter decomposition of three common species in the northern Chihuahuan Desert, 2010-2012","Smith, Jane G.; ",,,,,Organic matter cycling
+328,210328001,2019,"Aboveground Net Primary Productivity across inter-annual precipitation variability treatments at a grassland site in the Jornada Basin, 2009-2014","Sala, Osvaldo; Gherardi, Laureano; ",,,1.0,https://doi.org/10.1073/pnas.1506433112,Disturbance
+328,210328002,2019,"Plant diverity and richness metrics across inter-annual precipitation variability treatments at a grassland site in the Jornada Basin, 2009-2014","Sala, Osvaldo; Gherardi, Laureano; ",,,,,Disturbance
+328,210328003,2019,"Soil moisture across inter-annual precipitation variability treatments at a grassland site in the Jornada Basin, 2011-2013","Sala, Osvaldo; Gherardi, Laureano; ",,,1.0,https://doi.org/10.1073/pnas.1506433112,Disturbance
+338,210338002,2018,"Precipitation Measured at Four Locations in the Tromble Watershed, Jornada Basin, from June 2010 to September 2016","Vivoni, Enrique; Schreiner-McGraw, Adam; Anderson, Cody; Templeton, Ryan; ",core,core,1.0,https://doi.org/10.1002/ecs2.2000,Inorganic matter cycling
+338,210338004,2018,"Soil Moisture at 15 Locations and 3 depths in the Tromble Watershed, Jornada Basin, June 2010 to September 2016","Vivoni, Enrique; Schreiner-McGraw, Adam; Anderson, Cody; Templeton, Ryan; ",core,core,1.0,https://doi.org/10.1002/ecs2.2000,Inorganic matter cycling
+338,210338005,2018,"Hydrological and Energy Surface and Atmospheric Fluxes in the Tromble Watershed, Jornada Basin, June 2010 to October 2016","Schreiner-McGraw, Adam; Anderson, Cody; Templeton, Ryan; ",,core,1.0,https://doi.org/10.1002/ecs2.2000,Inorganic matter cycling
+338,210338006,2018,"Meteorological Station data from the Tromble Watershed, Jornada Basin, May 2010 to October 2016","Schreiner-McGraw, Adam; Anderson, Cody; Templeton, Ryan; ",,core,1.0,https://doi.org/10.1002/ecs2.2000,Inorganic matter cycling
+351,210351001,2019,"Basal Cover of Perennial Grasses and Canopy Cover of Shrubs at Permanent Quadrat Locations on the Jornada Experimental Range (Jornada Basin LTER), 1915-2006","Chapline, William; Havstad, Kris; Bestelmeyer, Brandon; ",core,core,,,Populations
+351,210351002,2019,"Plant Density of Perennial Forbs and Subshrubs at Permanent Quadrat Locations on the Jornada Experimental Range (Jornada Basin LTER), 1915-2006","Chapline, William; Havstad, Kris; Bestelmeyer, Brandon; ",core,core,,,Populations
+351,210351003,2019,"Soil Particle Size Analysis at Permanent Quadrat locations, Jornada Experimental Range, 2001","Yao, Jin; ",,,,,Populations
+365,210365001,2012,Soil movement across black grama-mesquite ecotones beginning in 1933,"Campbell, Robert; ",core,core,,,Inorganic matter cycling
+368,210368001,2011,Density and cover of winter annual plants,"Di Marco, Rodolfo; ",,,,,Inorganic matter cycling
+368,210368002,2011,Ant nest soil nutrients,"Di Marco, Rodolfo; ",,,,,Inorganic matter cycling
+368,210368003,2011,Ant nest soil organic matter,"Di Marco, Rodolfo; ",,,,,Inorganic matter cycling
+368,210368004,2011,Ant nest soil water content,"Di Marco, Rodolfo; ",,,,,Inorganic matter cycling
+369,210369001,2011,Arthropod Trophic Group Composition Data,"Lightfoot, David; ",,,,,Populations
+370,210370001,2011,Jornada Grasshopper Data,"Lightfoot, David; ",,,,,Populations
+370,210370002,2011,Jornada Grasshopper Plot Herbaceous Vegetation Data,"Lightfoot, David; ",,,,,Populations
+379,210379001,2011,USDA-NOAA NWS Daily Climatological Data,"Wooton, Elmer; ",core,,,,Disturbance
+379,210379002,2012,USDA-NOAA NWS Monthly Summary Climatological Data,"Wooton, Elmer; ",core,,,,Disturbance
+379,210379003,2012,USDA-NOAA NWS Monthly Total Pan Evaporation Data,"Ares, Fred; ",core,,,,Disturbance
+380,210380001,2019,"Monthly precipitation data from a network of standard gauges at the Jornada Experimental Range (Jornada Basin LTER) in southern New Mexico, January 1916 - ongoing","Thatcher, David; ",core,core,,,Disturbance
+385,210385001,2011,Fluff grass mesocosm: mites and nematodes,"Silva, Solange; ",,,,,Populations
+385,210385002,2011,Fluffgrass rhizosphere N mineralization potential,"Silva, Solange; ",,,,,Populations
+385,210385003,2011,Fluff grass plant total nitrogen,"Silva, Solange; ",,,,,Populations
+385,210385004,2011,Fluff grass plant growth,"Silva, Solange; ",,,,,Populations
+385,210385005,2011,Fluffgrass anion exchange resins bags for NO3,"Silva, Solange; ",,,,,Populations
+385,210385006,2011,Fluffgrass cation exchange resin bags for NH4,"Silva, Solange; ",,,,,Populations
+385,210385007,2011,Fluff grass plant dynamics,"Silva, Solange; ",,,,,Populations
+385,210385008,2011,Fluff grass soil total nitrogen,"Silva, Solange; ",,,,,Populations
+386,210386003,2011,Plant Nutrient Analysis - 1988 and 1989,"Virginia, Ross; ",,,,,Inorganic matter cycling
+386,210386004,2011,Mesquite Nodulating Rhizobia - 1988 and 1989,"Virginia, Ross; ",,,,,Inorganic matter cycling
+392,210392001,2012,Line intercept data of long-term vegetation responses to shrub removal and lagomorph exclusion in a creosotebush community,"Valentine, Ken; ",core,core,,,Land Use and Land Cover Change
+394,210394005,2011,Deep Core Soil Saturation Extracts,"Virginia, Ross; ",,,,,Inorganic matter cycling
+394,210394009,2011,Surface Soil Canopy Position Nutrients,"Virginia, Ross; ",,,,,Inorganic matter cycling
+395,210395001,2011,Grama/Mesquite Leaching Mineralization Potential Survey,"Fisher, Fred; ",,,,,Inorganic matter cycling
+407,210407001,2019,"Daily precipitation from a network of weighing rain gauges on the Jornada Experimental Range (Jornada Basin LTER), 1976-2011.","Thatcher, David; ",core,core,,,Disturbance
+409,210409001,2012,Photosynthetic rates for leaves from 5 precipitation treatments,"Throop, Heather; ",,,,,Primary production
+409,210409002,2012,Pre-dawn water potential for leaves from 5 precipitation treatments,"Throop, Heather; ",,,,,Primary production
+412,210412001,2019,"Jornada Experimental Range (USDA-ARS) annual stocking rates for cattle, horses, and sheep, 1916-2001","Havstad, Kris; Bestelmeyer, Brandon; ",core,core,,,Populations
+425,210425001,2012,Estimated daily precipitation at the 15 ANPP sites: 1980-2010,"Yao, Jin; ",core,core,,,Disturbance
+437,210437001,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-CALI site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437002,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-GRAV site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437003,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-SAND site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437004,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-BASN site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437005,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-IBPE site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437006,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-SUMM site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437007,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-NORT site: 5-minute summary air
+         temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437008,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-RABB site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437009,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-WELL site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437010,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-COLL site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437011,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-SMAL site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437012,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-TOBO site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437013,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-EAST site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437014,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-TAYL site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437015,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-WEST site: 5-minute summary wind and
+         air temperature data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437016,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-CALI site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437017,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-GRAV site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437018,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-SAND site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437019,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-BASN site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437020,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-IBPE site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437021,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-SUMM site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437022,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-NORT site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437023,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-RABB site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437024,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-WELL site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437025,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-COLL site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437026,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-SMAL site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437027,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-EAST site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437028,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-EAST site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437029,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-TAYL site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437030,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-WEST site: 30-minute summary data:
+         2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437031,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-CALI site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437032,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-GRAV site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437033,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-SAND site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437034,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-BASN site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437035,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-IBPE site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437036,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-SUMM site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437037,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-NORT site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437038,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-RABB site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437039,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-WELL site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437040,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-COLL site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437041,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-SMAL site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437042,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-TOBO site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437043,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-EAST site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437044,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-TAYL site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437045,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-WEST site: 1-hour summary data:  2013
+         - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437046,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-CALI site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437047,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-GRAV site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437048,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-SAND site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437049,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-BASN site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437050,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-IBPE site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437051,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-SUMM site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437052,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-NORT site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437053,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-RABB site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437054,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-WELL site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437055,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-COLL site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437056,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-SMAL site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437057,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-TOBO site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437058,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-EAST site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437059,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-TAYL site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437060,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-WEST site: Daily summary data:  2013 -
+         ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437061,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-CALI site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437062,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-GRAV site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437063,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-SAND site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437064,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-BASN site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437065,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-IBPE site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437066,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-SUMM site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437067,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-NORT site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437068,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-RABB site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437069,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-WELL site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437070,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-COLL site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437071,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-SMAL site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437072,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-TOBO site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437073,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-EAST site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437074,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-TAYL site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437075,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-WEST site: 1-second summary
+         precipitation data:  2013 - ongoing","Anderson, John; ",,core,,,Disturbance
+437,210437076,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-CALI site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437077,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-GRAV site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437078,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-SAND site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437079,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-BASN site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437080,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-IBPE site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437081,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-SUMM site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437082,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-NORT site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437083,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-RABB site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437084,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-WELL site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437085,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-COLL site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437086,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-SMAL site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437087,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-TOBO site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437088,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-EAST site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437089,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-TAYL site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437090,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-WEST site: 30-minute soil volumetric
+         water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437091,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-CALI site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437092,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-GRAV site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437093,2020,"Jornada Basin LTER: Wireless meteorological station at NPP C-SAND site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437094,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-BASN site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437095,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-IBPE site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437096,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-SUMM site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437097,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-NORT site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437098,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-RABB site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437099,2020,"Jornada Basin LTER: Wireless meteorological station at NPP M-WELL site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437100,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-COLL site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437101,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-SMAL site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437102,2020,"Jornada Basin LTER: Wireless meteorological station at NPP P-TOBO site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437103,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-EAST site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437104,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-TAYL site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437105,2020,"Jornada Basin LTER: Wireless meteorological station at NPP T-WEST site: Daily average soil
+         volumetric water content data:  2013 - ongoing","Duniway, Michael; ",,core,,,Disturbance
+437,210437106,2020,"Jornada Basin LTER: Wireless meteorological station at NPP G-IBPE site: 15-minute summary data:
+         2016 - ongoing","Anderson, John; ",,core,,,Disturbance
+461,210461001,2019,"Perennial grass recovery following livestock overgazing and shrub removal: an experiment at the Jornada Experimental Range (Jornada Basin LTER), 1996-2016","Havstad, Kris; Bestelmeyer, Brandon; ",core,core,,,Disturbance
+472,210472001,2018,"Vegetation cover and Soil Organic Carbon along gradients of cattle grazing intensity in the Jornada Basin, July-August 2016","Boydston, Aaron; ",,,,,Land Use and Land Cover Change
+520,210520001,2018,"Vascular Plant Species of the Jornada Basin, 1982-2018","Anderson, John; Van Zee, Justin; ",,core,,,Populations
