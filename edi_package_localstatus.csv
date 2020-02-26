@@ -1,34 +1,34 @@
 studyid,pkgid,pubdate,title,authors,old_core,core_sig_2020prop,top10_2020prop,top10doi_2020prop,corearea
-1,100,2019,"High resolution shrub cover raster maps of the Jornada Basin LTER, including JER and CDRRC (2011)","Ji, Wenjie; Hanan, Niall P.; ",,signature,,,Inorganic matter cycling
-1,210001001,2011,Hydrology natural runoff plots plant cover,"Ward, Tim; ",,,,,Inorganic matter cycling
-1,210001002,2019,"Rainfall runoff and sediment deposition from 2 x 2 meter plots in grassland and creosotebush communities at the Jornada Basin LTER, 1982-1994","Ward, Tim; ",core,core,,,Inorganic matter cycling
-1,210001003,2011,Hydrology plot surface runoff water chemistry,"Ward, Tim; ",,,,,Inorganic matter cycling
-2,210002001,2019,"Graduated rain gauge (GRG) precipitation observations from 15 NPP sites at the Jornada Basin LTER, 1989-ongoing","Huenneke, Laura; Anderson, John; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Disturbance
-7,210007001,1991,"Lizard pitfall trap data (LTER-II, LTER-III)","Lightfoot, David; ",,,,,Populations
-8,210008001,2012,Arthropod Pitfall Traps-III in 5x1 grid at LTER II NPP sites,"Anderson, John; ",,,,,Populations
-10,210010001,2019,"Termite foraging data from bait mass loss at eleven locations at the Jornada Basin LTER site, 1988-2000","Lightfoot, David; Whitford, Walter; Anderson, John; ",core,core,,,Populations
-11,210011001,2019,Seasonal aboveground plant biomass estimates at 15 net primary production (NPP) study sites at Jornada Basin LTER from 1989-2012,"Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
-11,210011002,2019,"Seasonal non-destructive vegetation measurements at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1989-ongoing","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
-11,210011003,2019,"Annual mean estimates of aboveground net primary production (NPP) at 15 sites at Jornada Basin LTER, 1989-2017","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
-11,210011004,2019,"Seasonal reference harvest measurements of vegetation at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1989-ongoing","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
-11,210011005,2019,"Annual ground-based photographs taken at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1996-ongoing","Anderson, John; ",core,core,,,Primary production
-12,210012001,2019,"Raw neutron counts from a soil water content hydroprobe along the LTER-I transects (control and fertilized) at the Jornada Basin LTER, 1986-ongoing","Wierenga, Peter; Virginia, Ross; Duniway, Michael; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
-12,210012002,2019,"Soil volumetric water content calculated from neutron hydroprobe data along the LTER-I transects (control and fertilized) at the Jornada Basin LTER, 1986-ongoing","Wierenga, Peter; Virginia, Ross; Duniway, Michael; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
-13,210013001,2019,"Raw neutron counts from a soil water content hydroprobe at 15 NPP study sites at the Jornada Basin LTER, 1989-ongoing","Virginia, Ross; Duniway, Mike; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
-13,210013002,2019,"Soil volumetric water content calculated from neutron hydroprobe data at 15 NPP study sites at the Jornada Basin LTER, 1989-2011 (Deprecated)","Virginia, Ross; Duniway, Mike; ",core,core,,,Inorganic matter cycling
-13,210013003,2019,"Soil volumetric water content calculated from neutron hydroprobe data at 15 NPP study sites at the Jornada Basin LTER, 1989-ongoing","Virginia, Ross; Duniway, Mike; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
-15,210015001,2011,Transect Vegetation Biomass,"Anderson, John; ",,,,,Primary production
-15,210015002,2011,Transect Soil Mineralization Potential (Field),"Anderson, John; ",,,,,Inorganic matter cycling
-15,210015003,2011,Transect Soil Mineralization Potential (Initial),"Anderson, John; ",,,,,Inorganic matter cycling
-86,210086001,2019,"Vegetation cover data from line-intercept transects in the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
-86,210086002,2019,"Quadrat vegetation cover data from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
-86,210086003,2019,"Cryptogam crust data from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
-86,210086004,2019,"Leaf litter cover data on 1m x 1m plots from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Organic matter cycling
-86,210086005,2019,"Rabbit feces counts on 1m x 1m plots from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
-86,210086006,2019,"Rabbit survey data on creosotebush and grassland routes from the long-term Small Mammal Exclusion Study at Jornada Basin LTER, 1996-ongoing","Bestelmeyer, Brandon; Lightfoot, David; Schooley, Robert; ",core,core,,,Populations
-86,210086007,2019,"Soil disturbance cover data on 1m x 1m plots from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Disturbance
-86,210086008,2019,"Termite casing data from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
-86,210086009,2019,"Rodent data from trapping webs in the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2007","Bestelmeyer, Brandon; Lightfoot, David; Schooley, Robert; ",core,core,,,Populations
+1,100,2019,"High resolution shrub cover raster maps of the Jornada Basin LTER, including JER and CDRRC (2011)","Ji, Wenjie; Hanan, Niall P.; ",,signature,,,Land Use and Land Cover Change
+001,210001001,2011,Hydrology natural runoff plots plant cover,"Ward, Tim; ",,,,,Inorganic matter cycling
+001,210001002,2019,"Rainfall runoff and sediment deposition from 2 x 2 meter plots in grassland and creosotebush communities at the Jornada Basin LTER, 1982-1994","Ward, Tim; ",core,core,,,Inorganic matter cycling
+001,210001003,2011,Hydrology plot surface runoff water chemistry,"Ward, Tim; ",,,,,Inorganic matter cycling
+002,210002001,2019,"Graduated rain gauge (GRG) precipitation observations from 15 NPP sites at the Jornada Basin LTER, 1989-ongoing","Huenneke, Laura; Anderson, John; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Disturbance
+007,210007001,1991,"Lizard pitfall trap data (LTER-II, LTER-III)","Lightfoot, David; ",,,,,Populations
+008,210008001,2012,Arthropod Pitfall Traps-III in 5x1 grid at LTER II NPP sites,"Anderson, John; ",,,,,Populations
+010,210010001,2019,"Termite foraging data from bait mass loss at eleven locations at the Jornada Basin LTER site, 1988-2000","Lightfoot, David; Whitford, Walter; Anderson, John; ",core,core,,,Populations
+011,210011001,2019,Seasonal aboveground plant biomass estimates at 15 net primary production (NPP) study sites at Jornada Basin LTER from 1989-2012,"Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+011,210011002,2019,"Seasonal non-destructive vegetation measurements at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1989-ongoing","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+011,210011003,2019,"Annual mean estimates of aboveground net primary production (NPP) at 15 sites at Jornada Basin LTER, 1989-2017","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+011,210011004,2019,"Seasonal reference harvest measurements of vegetation at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1989-ongoing","Peters, Debra; Huenneke, Laura; ",core,core,1.0,https://doi.org/10.1007/s00442-013-2837-y,Primary production
+011,210011005,2019,"Annual ground-based photographs taken at 15 net primary production (NPP) study sites at Jornada Basin LTER, 1996-ongoing","Anderson, John; ",core,core,,,Primary production
+012,210012001,2019,"Raw neutron counts from a soil water content hydroprobe along the LTER-I transects (control and fertilized) at the Jornada Basin LTER, 1986-ongoing","Wierenga, Peter; Virginia, Ross; Duniway, Michael; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
+012,210012002,2019,"Soil volumetric water content calculated from neutron hydroprobe data along the LTER-I transects (control and fertilized) at the Jornada Basin LTER, 1986-ongoing","Wierenga, Peter; Virginia, Ross; Duniway, Michael; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
+013,210013001,2019,"Raw neutron counts from a soil water content hydroprobe at 15 NPP study sites at the Jornada Basin LTER, 1989-ongoing","Virginia, Ross; Duniway, Mike; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
+013,210013002,2019,"Soil volumetric water content calculated from neutron hydroprobe data at 15 NPP study sites at the Jornada Basin LTER, 1989-2011 (Deprecated)","Virginia, Ross; Duniway, Mike; ",core,core,,,Inorganic matter cycling
+013,210013003,2019,"Soil volumetric water content calculated from neutron hydroprobe data at 15 NPP study sites at the Jornada Basin LTER, 1989-ongoing","Virginia, Ross; Duniway, Mike; Vivoni, Enrique; ",core,core,,,Inorganic matter cycling
+015,210015001,2011,Transect Vegetation Biomass,"Anderson, John; ",,,,,Primary production
+015,210015002,2011,Transect Soil Mineralization Potential (Field),"Anderson, John; ",,,,,Inorganic matter cycling
+015,210015003,2011,Transect Soil Mineralization Potential (Initial),"Anderson, John; ",,,,,Inorganic matter cycling
+086,210086001,2019,"Vegetation cover data from line-intercept transects in the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+086,210086002,2019,"Quadrat vegetation cover data from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+086,210086003,2019,"Cryptogam crust data from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+086,210086004,2019,"Leaf litter cover data on 1m x 1m plots from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Organic matter cycling
+086,210086005,2019,"Rabbit feces counts on 1m x 1m plots from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+086,210086006,2019,"Rabbit survey data on creosotebush and grassland routes from the long-term Small Mammal Exclusion Study at Jornada Basin LTER, 1996-ongoing","Bestelmeyer, Brandon; Lightfoot, David; Schooley, Robert; ",core,core,,,Populations
+086,210086007,2019,"Soil disturbance cover data on 1m x 1m plots from the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2015","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Disturbance
+086,210086008,2019,"Termite casing data from the long-term Small Mammal Exclosure Study (SMES) at Jornada Basin LTER, 1995-2005","Lightfoot, David; Bestelmeyer, Brandon; ",core,core,,,Populations
+086,210086009,2019,"Rodent data from trapping webs in the long-term Small Mammal Exclusion Study (SMES) at Jornada Basin LTER, 1995-2007","Bestelmeyer, Brandon; Lightfoot, David; Schooley, Robert; ",core,core,,,Populations
 119,210119001,2019,"Percent cover of vegetation measured by the line-intercept method at multiple locations on long-term ecosystem transects (including nitrogen fertilization treatments) at Jornada Basin LTER, 1982-2014","Cunningham, Gary; ",core,core,,,Land Use and Land Cover Change
 120,210120001,2019,"Perennial species canopy cover across grazed/ungrazed fencelines at the Jornada Basin LTER, 1986-ongoing","Whitford, Walter; Anderson, John; ",core,core,,,Land Use and Land Cover Change
 120,210120002,2019,"Canopy cover for 9 perennial plant taxa across grazed/ungrazed fencelines at the Jornada Basin LTER, 1982-ongoing","Whitford, Walter; Anderson, John; ",core,core,,,Land Use and Land Cover Change
