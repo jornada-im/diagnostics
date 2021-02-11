@@ -6,6 +6,7 @@ import os
 
 def load_xml(xmlname):
     """
+    
     """
     tree = ET.parse(xmlname)
     root = tree.getroot()
