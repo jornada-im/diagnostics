@@ -11,7 +11,7 @@ root.wm_attributes('-topmost', True)  # Dialog appears on top
 
 # Ask the user for the root path - usually in the Field Crew/IM Sharepoint root
 directory = Path(filedialog.askdirectory(title="Select the reporting directory",
-                                          initialdir="~"))
+                                          initialdir=Path.home()))
 print(f"Selected: {directory}")
 
 
